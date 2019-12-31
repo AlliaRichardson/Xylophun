@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/teaPot"
+            android:icon="@drawable/teapoticon"
+            android:title="@string/teaPot" />
+
+        <item
+            android:id="@+id/littleLamb"
+            android:icon="@drawable/lambicon"
+            android:title="@string/littleLamb" />
+        <item
+            android:id="@+id/twinkleStar"
+            android:icon="@drawable/staricon"
+            android:title="@string/twinkle" />
+        <item
+            android:id="@+id/macDonald"
+            android:icon="@drawable/farmicon"
+            android:title="@string/macDonald" />
+        <item
+            android:id="@+id/starWars"
+            android:icon="@drawable/deathstaricon"
+            android:title="@string/starWars" />
+
+    </group>
+
+</menu>

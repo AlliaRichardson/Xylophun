@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RichardsonProject</string>
+    <string name="title_about"><font size="20">About</font></string>
+    <string name="title_help"><font size="20">Help</font></string>
+    <string name="settings"><font size="20">Settings</font></string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_back">Back</string>
+    <string name="creator_name">Allia Richardson</string>
+    <string name="course_class">CS 369</string>
+    <string name="course_term">Winter 2019</string>
+    <string name="project_name">Xylophun</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">Fun Songs</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="c3String">\nC</string>
+    <string name="d3String">\nD</string>
+    <string name="e3String">\nE</string>
+    <string name="f3String">\nF</string>
+    <string name="g3String">\nG</string>
+    <string name="a3String">\nA</string>
+    <string name="b3String">\nB</string>
+    <string name="c4String">\nC</string>
+    <string name="teaPot">I\'m a Little Tea Pot</string>
+    <string name="starWars">Star Wars</string>
+    <string name="littleLamb">Mary had a Little Lamb</string>
+    <string name="macDonald">Old MacDonald had a Farm</string>
+    <string name="twinkle">Twinkle Twinkle Little Star</string>
+    <string name="aboutText">An applications that allows the user to play the xylophone.
+        There are 5 available songs from which the user can choose to play, if they so
+        choose.</string>
+    <string name="switch_button">Background Music</string>
+    <string name="sound_pick">Pick a Sound</string>
+    <string name="volume">Volume</string>
+</resources>
+
